@@ -1,6 +1,7 @@
 ## Simple Snake game
 
 ### Instruction:
+to move up click "W"<br>
 to move down click "S"<br>
 to move left click "A"<br>
 to move right click "D"<br>
